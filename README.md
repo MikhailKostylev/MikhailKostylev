@@ -42,8 +42,6 @@ Here are some ideas to get you started:
 
 ![MikhailKostylev GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikhailKostylev&count_private=true&hide=contribs&show_icons=true&theme=radical)
 
-____
-
 ### Connect with me:
 
 [<img align="left" alt="MikhailKostylev | LinkedIn" width="22px" src="https://img.icons8.com/officel/344/linkedin.png" />][LinkedIn]
