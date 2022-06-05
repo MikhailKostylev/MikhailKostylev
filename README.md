@@ -1,4 +1,4 @@
-### 🙋🏻‍♂️Welcome 
+### 🙋🏻‍♂️ Welcome! 👋
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=MikhailKostylev)
 
 ## 🙃 About me 
@@ -8,6 +8,7 @@
 - 🧑🏻‍💻 I like to write code
 - 📖 I am constantly learning new things
 
+____
 
 <!--
 **MikhailKostylev/MikhailKostylev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,13 +36,13 @@ Here are some ideas to get you started:
 
 ![MikhailKostylev GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikhailKostylev&count_private=true&hide=contribs&show_icons=true&theme=radical)
 
+____
+
 ### Connect with me:
 
 [<img align="left" alt="MikhailKostylev | LinkedIn" width="22px" src="https://img.icons8.com/officel/344/linkedin.png" />][LinkedIn]
 [<img align="left" alt="MikhailKostylev | Twitter" width="22px" src="https://img.icons8.com/office/344/twitter.png" />][Twitter]
 [<img align="left" alt="MikhailKostylev | Telegram" width="22px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
-
-<br />
 
 [LinkedIn]: https://www.linkedin.com/in/mikhail-kostylev/
 [Twitter]: https://twitter.com/MikhailKostyle3
