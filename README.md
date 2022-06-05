@@ -10,12 +10,6 @@ It's Only Crazy Until You Do It ☝🏻
 - ⚙️ I am constantly learning new things
 - 👥 I am a very open, sociable and friendly person
 
-### 🌚 I'm fond of:
-- 📖 Reading
-- 👾 Games
-- 🎧 Music
-- 🎥 Movies
-
 <!--
 **MikhailKostylev/MikhailKostylev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,6 +31,12 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F8C52C)
 ![Cocoapods](https://img.shields.io/badge/-Cocoapods-090909?style=for-the-badge&logo=cocoapods&logoColor=F8C52C)
+
+### 🌚 I'm fond of:
+- 📖 Reading
+- 👾 Games
+- 🎧 Music
+- 🎥 Movies
 
 ## ✅ GitHub Stats
 
