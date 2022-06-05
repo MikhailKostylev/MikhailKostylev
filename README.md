@@ -32,10 +32,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F8C52C)
 ![Cocoapods](https://img.shields.io/badge/-Cocoapods-090909?style=for-the-badge&logo=cocoapods&logoColor=F8C52C)
 
-## ✅ GitHub Stats
-
-![MikhailKostylev GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikhailKostylev&count_private=true&hide=contribs&show_icons=true&theme=radical)
-
 ### Connect with me:
 
 [<img align="left" alt="MikhailKostylev | LinkedIn" width="22px" src="https://img.icons8.com/officel/344/linkedin.png" />][LinkedIn]
