@@ -1,4 +1,4 @@
-### 🙋🏻‍♂️ Welcome! 👋🏻
+## 🙋🏻‍♂️ Welcome! 👋🏻
 ![](https://komarev.com/ghpvc/?username=MikhailKostylev)
 
 It's Only Crazy Until You Do It ☝🏻
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/MikhailKostylev/MikhailKostylev/blob/main/giphy.gif?raw=true" width="200" align="left">
 
-### Connect with me:
+## 👉👈Connect with me:
 
 [<img align="left" alt="MikhailKostylev | LinkedIn" width="50px" src="https://img.icons8.com/officel/344/linkedin.png" />][LinkedIn]
 [<img align="left" alt="MikhailKostylev | Twitter" width="50px" src="https://img.icons8.com/office/344/twitter.png" />][Twitter]
