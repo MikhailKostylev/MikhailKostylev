@@ -32,15 +32,14 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F8C52C)
 ![Cocoapods](https://img.shields.io/badge/-Cocoapods-090909?style=for-the-badge&logo=cocoapods&logoColor=F8C52C)
 
+<img src="https://github.com/MikhailKostylev/MikhailKostylev/blob/main/giphy.gif?raw=true" width="200" align="left">
+
 ### Connect with me:
 
-[<img align="left" alt="MikhailKostylev | LinkedIn" width="22px" src="https://img.icons8.com/officel/344/linkedin.png" />][LinkedIn]
-[<img align="left" alt="MikhailKostylev | Twitter" width="22px" src="https://img.icons8.com/office/344/twitter.png" />][Twitter]
-[<img align="left" alt="MikhailKostylev | Telegram" width="22px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
+[<img align="left" alt="MikhailKostylev | LinkedIn" width="50px" src="https://img.icons8.com/officel/344/linkedin.png" />][LinkedIn]
+[<img align="left" alt="MikhailKostylev | Twitter" width="50px" src="https://img.icons8.com/office/344/twitter.png" />][Twitter]
+[<img align="left" alt="MikhailKostylev | Telegram" width="50px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
 
 [LinkedIn]: https://www.linkedin.com/in/mikhail-kostylev/
 [Twitter]: https://twitter.com/MikhailKostyle3
 [Telegram]: https://telegram.me/thxImFine
-
-<img src="https://github.com/semjonG/semjonG/blob/main/giphy.gif?raw=true" width="100" align="right">
-</p>
