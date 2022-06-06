@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F8C52C)
 ![Cocoapods](https://img.shields.io/badge/-Cocoapods-090909?style=for-the-badge&logo=cocoapods&logoColor=F8C52C)
 
-<img src="https://github.com/MikhailKostylev/MikhailKostylev/blob/main/giphy.gif?raw=true" width="200" align="left">
+<img src="https://github.com/MikhailKostylev/MikhailKostylev/blob/main/giphy.gif?raw=true" width="100" align="left">
 
 ## 👉👈Connect with me:
 
