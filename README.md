@@ -41,3 +41,6 @@ Here are some ideas to get you started:
 [LinkedIn]: https://www.linkedin.com/in/mikhail-kostylev/
 [Twitter]: https://twitter.com/MikhailKostyle3
 [Telegram]: https://telegram.me/thxImFine
+
+<img src="https://github.com/semjonG/semjonG/blob/main/giphy.gif?raw=true" width="100" align="right">
+</p>
