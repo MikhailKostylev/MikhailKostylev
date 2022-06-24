@@ -25,12 +25,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Languages and Tools:
-![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=swift&logoColor=47C5FB)
-![Xcode](https://img.shields.io/badge/-Xcode-090909?style=for-the-badge&logo=Xcode&logoColor=097CDB)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F8C52C)
-![Cocoapods](https://img.shields.io/badge/-Cocoapods-090909?style=for-the-badge&logo=cocoapods&logoColor=F8C52C)
+## Skills & Tools
+
+<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/> ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) <img height="67em" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/> ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg) <img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 
 <img src="https://github.com/MikhailKostylev/MikhailKostylev/blob/main/giphy.gif?raw=true" width="90" align="left">
 
@@ -53,3 +50,5 @@ Here are some ideas to get you started:
 [LinkedIn]: https://www.linkedin.com/in/mikhail-kostylev/
 [Twitter]: https://twitter.com/MikhailKostyle3
 [Telegram]: https://telegram.me/thxImFine
+
+
