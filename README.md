@@ -1,7 +1,6 @@
 ![Header](https://github.com/MikhailKostylev/MikhailKostylev/blob/main/github-header-image-3.png)
 
-## 🙋🏻‍♂️ Welcome! 👋🏻
-![](https://komarev.com/ghpvc/?username=MikhailKostylev)
+## 🙋🏻‍♂️ Welcome! 👋🏻 ![](https://komarev.com/ghpvc/?username=MikhailKostylev)
 
 It's Only Crazy Until You Do It ☝🏻
 
