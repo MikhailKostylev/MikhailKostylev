@@ -14,8 +14,6 @@ src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge
 - 🔥 I'm looking forward to deliver great value to the Business and the Users
 - 🎯 My Hobbies: Reading, Watching Movies & Series, Listening to music and Games
 - 👥 I'am a very open, sociable and friendly person
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&duration=4999&color=3DBEF7&width=500&height=30&lines=Probably+start+coding+for+food+soon...)](https://git.io/typing-svg)
 <!--
 **MikhailKostylev/MikhailKostylev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
