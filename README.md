@@ -15,6 +15,7 @@ src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge
 - 🎯 My Hobbies: Reading, Watching Movies & Series, Listening to music and Games
 - 👥 I'am a very open, sociable and friendly person
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=9&color=1874F7&lines=Probably+start+coding+for+food+soon...)](https://git.io/typing-svg)
 <!--
 **MikhailKostylev/MikhailKostylev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,6 +35,8 @@ Here are some ideas to get you started:
 
 <img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/> ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) <img height="67em" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/> ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg) <img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikhailKostylev&theme=dark)
+
 <img src="https://github.com/MikhailKostylev/MikhailKostylev/blob/main/giphy.gif?raw=true" width="90" align="left">
 
 ## 👉👈Connect with me:
@@ -42,19 +45,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="MikhailKostylev | Twitter" width="50px" src="https://img.icons8.com/office/344/twitter.png" />][Twitter]
 [<img align="left" alt="MikhailKostylev | Telegram" width="50px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
 
-<br />
-<br />
-<br />
-
-<details>
-  <summary>📊 Statistics:</summary>
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MikhailKostylev&show_icons=true" />
-</details>
-
 [LinkedIn]: https://www.linkedin.com/in/mikhail-kostylev/
 [Twitter]: https://twitter.com/MikhailKostyle3
 [Telegram]: https://telegram.me/thxImFine
 [Gmail]: kostylev.developer@gmail.com
-
-
