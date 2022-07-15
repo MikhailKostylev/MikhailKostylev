@@ -4,8 +4,7 @@
 
 It's Only Crazy Until You Do It ☝🏻
 
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail][<img alt="LinkedIn" 
-src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][LinkedIn][<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][Twitter][<img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%231877F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>][Telegram]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][LinkedIn][<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][Twitter][<img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%231877F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>][Telegram]
 
 ## 🙃 About me 
 ✌🏻 My name is Mikhail, I'am a self-taught iOS Developer 
@@ -46,4 +45,3 @@ Here are some ideas to get you started:
 [LinkedIn]: https://www.linkedin.com/in/mikhail-kostylev/
 [Twitter]: https://twitter.com/MikhailKostyle3
 [Telegram]: https://telegram.me/thxImFine
-[Gmail]: kostylev.developer@gmail.com
