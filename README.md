@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikhailKostylev&theme=dark)
 
+### Solved algorithms on Codewars:
+<img src="https://www.codewars.com/users/MikhailKostylev/badges/large">
+
 <img src="https://github.com/MikhailKostylev/MikhailKostylev/blob/main/giphy.gif?raw=true" width="90" align="left">
 
 ## 👉👈Connect with me:
