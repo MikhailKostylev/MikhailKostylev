@@ -14,7 +14,7 @@ It's Only Crazy Until You Do It ☝🏻
 - 🎯 My Hobbies: Reading, Watching Movies & Series, Listening to music and Games
 - 👥 I'am a very open, sociable and friendly person
 
-![snake gif](https://github.com/MikhailKostylev/MikhailKostylev/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/MikhailKostylev/MikhailKostylev/blob/output/github-contribution-grid-snake.svg)
 
 ## Skills & Tools
 
