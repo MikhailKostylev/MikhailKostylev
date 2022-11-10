@@ -23,7 +23,7 @@
 ### I also solve algorithms on [Codewars](https://www.codewars.com/users/MikhailKostylev):
 <img src="https://www.codewars.com/users/MikhailKostylev/badges/large">
 
-<img src="https://github.com/MikhailKostylev/MikhailKostylev/blob/main/giphy.gif?raw=true" width="90" align="left">
+<img src="https://github.com/MikhailKostylev/MikhailKostylev/blob/main/giphy.gif?raw=true" width="222" height="150" align="left">
 
 ## 👉👈Connect with me:
 
