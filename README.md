@@ -1,4 +1,4 @@
-![Header](https://github.com/MikhailKostylev/MikhailKostylev/blob/main/github-header-image-3.png)
+![Header](https://github.com/MikhailKostylev/MikhailKostylev/blob/main/github-header-image.png)
 
 ![snake svg](https://github.com/MikhailKostylev/MikhailKostylev/blob/output/github-contribution-grid-snake.svg)
 
