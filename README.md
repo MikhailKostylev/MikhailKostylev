@@ -25,7 +25,7 @@
 
 <img align="left" src="https://github.com/MikhailKostylev/MikhailKostylev/blob/main/giphy.gif?raw=true" width="167" height="112" align="left">
 
-### 👉👈 Connect with me:
+## 👉👈 Connect with me:
 
 [<img align="left" alt="MikhailKostylev | LinkedIn" width="50px" src="https://img.icons8.com/officel/344/linkedin.png" />][LinkedIn]
 [<img align="left" alt="MikhailKostylev | Twitter" width="50px" src="https://img.icons8.com/office/344/twitter.png" />][Twitter]
