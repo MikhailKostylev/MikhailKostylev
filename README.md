@@ -23,10 +23,10 @@
 ### I also solve algorithms on [Codewars](https://www.codewars.com/users/MikhailKostylev):
 <img src="https://www.codewars.com/users/MikhailKostylev/badges/large">
 
-<img src="https://github.com/MikhailKostylev/MikhailKostylev/blob/main/giphy.gif?raw=true" width="222" height="150" align="left">
+<img align="left" src="https://github.com/MikhailKostylev/MikhailKostylev/blob/main/giphy.gif?raw=true" width="167" height="112" align="left">
 
-## 👉👈Connect with me:
-#
+## 👉👈 Connect with me:
+
 [<img align="left" alt="MikhailKostylev | LinkedIn" width="50px" src="https://img.icons8.com/officel/344/linkedin.png" />][LinkedIn]
 [<img align="left" alt="MikhailKostylev | Twitter" width="50px" src="https://img.icons8.com/office/344/twitter.png" />][Twitter]
 [<img align="left" alt="MikhailKostylev | Telegram" width="50px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
@@ -34,3 +34,5 @@
 [LinkedIn]: https://www.linkedin.com/in/mikhail-kostylev/
 [Twitter]: https://twitter.com/MikhailKostyle3
 [Telegram]: https://telegram.me/thxImFine
+
+
