@@ -27,9 +27,9 @@
 
 ## 👉👈 Connect with me:
 
-[<img align="left" alt="MikhailKostylev | LinkedIn" width="48px" src="https://img.icons8.com/officel/344/linkedin.png" />][LinkedIn]
-[<img align="left" alt="MikhailKostylev | Twitter" width="48px" src="https://img.icons8.com/office/344/twitter.png" />][Twitter]
-[<img align="left" alt="MikhailKostylev | Telegram" width="48px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
+[<img align="left" alt="MikhailKostylev | LinkedIn" width="45px" src="https://img.icons8.com/officel/344/linkedin.png" />][LinkedIn]
+[<img align="left" alt="MikhailKostylev | Twitter" width="45px" src="https://img.icons8.com/office/344/twitter.png" />][Twitter]
+[<img align="left" alt="MikhailKostylev | Telegram" width="45px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
 
 [LinkedIn]: https://www.linkedin.com/in/mikhail-kostylev/
 [Twitter]: https://twitter.com/MikhailKostyle3
