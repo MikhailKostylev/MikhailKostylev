@@ -8,7 +8,7 @@
 
 # 🙃 About me 🪄✨[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][LinkedIn][<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][Twitter][<img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%231877F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>][Telegram]
 ## ✌🏻 My name is Mikhail, I'am a self-taught iOS Developer 
-- 🧑🏻‍💻 I'm Swift lover. Xcoder. cmd+B cmd+R sectarian.
+- 🧑🏻‍💻 I'm a problem solver. Swift lover. Xcoder.
 - 💡 I like to learn new things and improve my knowledge over time
 - 🔥 I'm looking forward to deliver great value to the Business and the Users
 - 🎯 My Hobbies: Reading, Watching Movies & Series, Listening to music and Games
