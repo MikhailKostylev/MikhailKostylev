@@ -6,7 +6,7 @@
 
 ## It's Only Crazy Until You Do It ☝🏻
 
-# 🙃 About me 🪄✨[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][LinkedIn][<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][Twitter][<img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%231877F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>][Telegram]
+# 🙃 About me 🪄✨
 ## ✌🏻 My name is Mikhail, I'am a self-taught iOS Developer 
 - 🧑🏻‍💻 I'm a problem solver. Swift lover. Xcoder.
 - 💡 I like to learn new things and improve my knowledge over time
@@ -27,12 +27,8 @@
 
 ## 👉👈 Connect with me:
 
-[<img align="left" alt="MikhailKostylev | LinkedIn" width="50px" src="https://img.icons8.com/officel/344/linkedin.png" />][LinkedIn]
-[<img align="left" alt="MikhailKostylev | Twitter" width="50px" src="https://img.icons8.com/office/344/twitter.png" />][Twitter]
 [<img align="left" alt="MikhailKostylev | Telegram" width="50px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
 
-[LinkedIn]: https://www.linkedin.com/in/mikhail-kostylev/
-[Twitter]: https://twitter.com/MikhailKostyle3
 [Telegram]: https://telegram.me/thxImFine
 
 
