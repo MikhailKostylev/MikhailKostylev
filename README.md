@@ -25,10 +25,4 @@
 
 <img align="left" src="https://github.com/MikhailKostylev/MikhailKostylev/blob/main/giphy.gif?raw=true" width="167" height="112" align="left">
 
-## 👉👈 Connect with me:
-
-[<img align="left" alt="MikhailKostylev | Telegram" width="50px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
-
-[Telegram]: https://telegram.me/thxImFine
-
 
